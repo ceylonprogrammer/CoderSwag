@@ -1,7 +1,8 @@
-package com.example.sameera.coderswag
+package com.example.sameera.coderswag.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.sameera.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
